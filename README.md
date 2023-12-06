@@ -18,5 +18,10 @@ I completing pool month at School 1337, part of the 42 network, in August 2023! 
 | [C05](https://github.com/mr-youbella/Projects_Pool_1337/tree/main/My%20pool%20projects%201337/C05) | 80% |
 | [C06](https://github.com/mr-youbella/Projects_Pool_1337/tree/main/My%20pool%20projects%201337/C06) | 100% |
 | [C07](https://github.com/mr-youbella/Projects_Pool_1337/tree/main/My%20pool%20projects%201337/C07) | 60% |
+| Exam00 | 30% |
+| Exam01 | 90% |
+| Exam02 | 60% |
+| Final Exam | 66% |
+
 
 Feel free to explore the links to view the code and solutions for each project.
