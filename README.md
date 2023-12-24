@@ -1,6 +1,6 @@
-# Pool Projects 1337
+# 1337 Pool
 
-I completing pool month at School 1337, part of the 42 network, in August 2023! Below are the projects you accomplished along with their respective solutions.
+I passed the Pool stage at School 1337, which is a school belonging to Network 42, in August 2023, and these are the projects I completed in Pool.
 
 ![Pool Projects](Pool%20intra.jpg)
 
@@ -24,4 +24,4 @@ I completing pool month at School 1337, part of the 42 network, in August 2023! 
 | Final Exam | 66% |
 
 
-Feel free to explore the links to view the code and solutions for each project.
+Feel free to explore the links to view the code and solutions for each project 😉.
