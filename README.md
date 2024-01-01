@@ -2,7 +2,7 @@
 
 I passed the Pool stage at School 1337, which is a school belonging to Network 42, in August 2023, and these are the projects I completed in Pool.
 
-![Pool Projects](Pool%20intra.jpg)
+![Pool Projects](intra_pool.jpg)
 
 ## Projects and Solutions
 
