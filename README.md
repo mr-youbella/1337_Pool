@@ -22,6 +22,3 @@ I passed the Pool stage at School 1337, which is a school belonging to Network 4
 | Exam01 | 90% |
 | Exam02 | 60% |
 | Final Exam | 66% |
-
-
-Feel free to explore the links to view the code and solutions for each project 😉.
